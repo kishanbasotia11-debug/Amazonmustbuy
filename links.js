@@ -5,4 +5,6 @@ const products = [
   "https://link.amazon/B097mKVTX",
   "https://link.amazon/B0bl1KGF4",
   "https://link.amazon/B01rjYN1k",
+  "https://fkrt.co/Ozih09",
+  
 ];
